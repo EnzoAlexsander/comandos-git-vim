@@ -10,7 +10,7 @@ cat - mostra o que tem escrito no arquivo ||
 cd "fulano" - para entrar em pastas ||
 cd .. - para sair de pastas ||
 cd fulano/sicrano/beltrano - para entrar em várias pastas ao mesmo tempo
-
+nautilus . - abrir o gerenciador de arquivo dentro do diretorio dele
 
 ## Comandos Vim
 
